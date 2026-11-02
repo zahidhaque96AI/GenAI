@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 .idea/
 .vscode/
-path.txt/
+path.txt
