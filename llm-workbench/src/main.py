@@ -18,6 +18,7 @@ def main() -> None:
     My team cannot prepare the monthly report.
     """
 
+    # API invocation
     response = client.chat.completions.create(
         model=model,
         messages=[
