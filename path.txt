@@ -1,0 +1,5 @@
+
+Mostly all the projects will be from the same folder. This is the learning path
+created by the AI for extensive learning purpose.
+
+Path: D:\RAGAgenticAI\GenAI-Day1.doc
