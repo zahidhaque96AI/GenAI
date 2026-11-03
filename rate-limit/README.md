@@ -12,3 +12,16 @@ We want to control outgoing API requests, avoid unnecessary failures, and handle
 There are actually two separate responsibilities:
 1. Rate limiter: Controls how frequently our application sends requests.
 2. Retry mechanism: Handles temporary failures, such as HTTP 429 responses.
+
+
+The responsibilities will be:
+
+Component	            Responsibility
+----------------------------------------
+main.py	                Coordinates ticket classification
+config.py	            Reads configuration
+prompts.py	            Provides LLM instructions
+models.py	            Defines the Pydantic response schema
+rate_limiter.py	        how frequently requests are sent
+OpenAI SDK	            Handles eligible transient API retries
+
