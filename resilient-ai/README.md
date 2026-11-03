@@ -1,0 +1,2 @@
+
+A production-oriented Python project demonstrating reliable LLM application architecture using SOLID principles, rate limiting, provider timeouts, retries, circuit breakers, and fault-tolerance patterns.
