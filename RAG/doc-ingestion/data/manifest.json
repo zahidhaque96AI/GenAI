@@ -3134,5 +3134,13 @@
     "modified_at": "2026-09-07T06:05:38.458887Z",
     "page_count": 3,
     "extraction_status": "complete"
+  },
+  "Final Dreaft 27th Oct 2026.pdf": {
+    "document_id": "pdf-b5c23ec376835757",
+    "relative_path": "Final Dreaft 27th Oct 2026.pdf",
+    "content_hash": "b5c23ec376835757ab30b09fd9e7165b0d2cd89e8ccf87ed7bc784e50544a175",
+    "modified_at": "2026-11-07T18:49:35.897459Z",
+    "page_count": 15,
+    "extraction_status": "ocr_required"
   }
 }
