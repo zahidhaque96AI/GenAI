@@ -1,0 +1,4 @@
+pypdf
+pydantic
+python-dotenv
+pytest
